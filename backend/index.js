@@ -2,7 +2,6 @@
 const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');
-const UserModel = require('./Pathology_lab/src/Users.js')
 
 const app = express();
 const port = 3001;
@@ -60,11 +59,3 @@ app.post('/login', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
-
-
-// Users Route
-app.get('/getUsers', (req, res) => {
-  UserModel.find()
-  .then(users => res.json(users))
-  .catch(err => res.json(err))
-})
