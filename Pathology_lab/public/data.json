@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Healthkind Active",
+    "parameters": 66,
+    "originalPrice": 5525,
+    "discountedPrice": 1449,
+    "discount": 74,
+    "imageUrl": "https://img.freepik.com/free-photo/accompaniment-abortion-process_23-2149656044.jpg?t=st=1717411991~exp=1717415591~hmac=26f374393c8f83ee7494f1de2e5290e56e3feb1ef12044d6d9281b369c5677bd&w=996"
+  },
+  {
+    "name": "Healthkind Lite",
+    "parameters": 35,
+    "originalPrice": 4725,
+    "discountedPrice": 1099,
+    "discount": 77,
+    "imageUrl": "https://thumbs.dreamstime.com/b/family-child-visiting-doctor-hospital-family-child-visiting-doctor-145232636.jpg"
+  },
+  {
+    "name": "Healthkind Total Plus",
+    "parameters": 87,
+    "originalPrice": 8525,
+    "discountedPrice": 2249,
+    "discount": 74,
+    "imageUrl": "https://img.freepik.com/free-photo/young-doctor-supporting-his-patient_1098-2237.jpg?t=st=1717411949~exp=1717415549~hmac=ad31e4d165a2d5f9bf7fb1b7498253870fe7c4294620fb71fb26efc014e472ef&w=996"
+  },
+  {
+    "name": "Healthkind Total",
+    "parameters": 85,
+    "originalPrice": 7265,
+    "discountedPrice": 1949,
+    "discount": 74,
+    "imageUrl": "https://img.freepik.com/free-photo/male-patient-talking-with-beautiful-doctor_23-2148396681.jpg?t=st=1717411877~exp=1717415477~hmac=04a0e9519729fccda104937e983d71f422f410fdd7f55bf3b3acfb30eae42a9f&w=996"
+  },
+  {
+    "name": "Healthkind Premium",
+    "parameters": 95,
+    "originalPrice": 10525,
+    "discountedPrice": 2899,
+    "discount": 72,
+    "imageUrl": "https://img.freepik.com/free-photo/close-up-medical-team-ready-work_23-2149152543.jpg?t=st=1717431250~exp=1717434850~hmac=d24f80a0253bce910b5449c5efe07e63ffcfabb6c8a6c31c29a9d76712beafdb&w=1060"
+  },
+  {
+    "name": "Healthkind Basic",
+    "parameters": 25,
+    "originalPrice": 3925,
+    "discountedPrice": 899,
+    "discount": 77,
+    "imageUrl": "https://gleneagles.hk/images/iStock-812423140.jpg"
+  },
+  {
+    "name": "Healthkind Comprehensive",
+    "parameters": 110,
+    "originalPrice": 12525,
+    "discountedPrice": 3099,
+    "discount": 75,
+    "imageUrl": "https://img.freepik.com/free-photo/group-medics-masks-reading-paper_23-2147763838.jpg?w=1060&t=st=1717432501~exp=1717433101~hmac=8c497c75d87c6b2cd330d95eba0d0c1e8c9f19d585a508ce8e17880aeefb0c47"
+  },
+  {
+    "name": "Healthkind Essential",
+    "parameters": 45,
+    "originalPrice": 5250,
+    "discountedPrice": 1499,
+    "discount": 71,
+    "imageUrl": "https://img.freepik.com/free-photo/female-doctors-checking-results-digital-tablet_329181-9236.jpg?t=st=1717432005~exp=1717435605~hmac=ea86d5a67e3d50b239db45574aade57d48de247addee054ee5da0f738a1c697f&w=1060"
+  },
+  {
+    "name": "Healthkind Family",
+    "parameters": 80,
+    "originalPrice": 8950,
+    "discountedPrice": 2199,
+    "discount": 75,
+    "imageUrl": "https://www.pathkindlabs.com/assets/tests_images/3.png"
+  },
+  {
+    "name": "Healthkind Ultimate",
+    "parameters": 120,
+    "originalPrice": 13500,
+    "discountedPrice": 3499,
+    "discount": 74,
+    "imageUrl": "https://img.freepik.com/free-photo/successful-medical-team_329181-9252.jpg?t=st=1717431660~exp=1717435260~hmac=ce5207a10231b87fc5d6c7c9211c0e2756c5f87bc675a805c45a13ae29147969&w=1060"
+  }
+]
